@@ -1,0 +1,1003 @@
+[
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "About Storage Innovations 2030",
+    "chunk_text": "This report on accelerating the future of lithium-ion batteries is released as part of the Storage Innovations  (SI)  2030  strategic  initiative.  The  objective  of  SI  2030  is  to  develop  specific  and quantifiable  research,  development,  and  deployment  (RD&amp;D)  pathways  toward  achieving",
+    "token_count": 79,
+    "chunk_id": 0
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "About Storage Innovations 2030",
+    "chunk_text": "the targets identified in the Long-Duration Storage Energy Earthshot, which seeks to achieve 90% cost reductions for technologies that can provide 10 hours or longer of energy storage within the coming decade. Through SI 2030, the U.S. Department of Energy (DOE) is aiming to understand, analyze, and enable the innovations required to unlock the potential for long-duration applications in the following technologies:",
+    "token_count": 82,
+    "chunk_id": 1
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "About Storage Innovations 2030",
+    "chunk_text": "- Lithium-ion Batteries\n- Lead-acid Batteries\n- Flow Batteries\n- Zinc Batteries\n- Sodium Batteries\n- Pumped Storage Hydropower\n- Compressed Air Energy Storage\n- Thermal Energy Storage\n- Supercapacitors\n- Hydrogen Storage",
+    "token_count": 60,
+    "chunk_id": 2
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "About Storage Innovations 2030",
+    "chunk_text": "The findings in this report primarily come from two pillars of SI 2030: the SI Framework and the SI Flight Paths. For more information about the methodologies of each pillar, please reference the SI 2030 Methodology Report, released alongside the ten technology reports.\n\nYou can read more about SI 2030 at https://www.energy.gov/oe/storage-innovations-2030.",
+    "token_count": 78,
+    "chunk_id": 3
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Acknowledgments",
+    "chunk_text": "DOE acknowledges  all  stakeholders  who  contributed  to  the  SI  2030  industry  input  process. Additional information about the stakeholders who participated in the SI Framework and SI Flight Paths  activities  can  be  found  in  Appendix  A.  The  authors  would  like  to  acknowledge",
+    "token_count": 70,
+    "chunk_id": 4
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Acknowledgments",
+    "chunk_text": "Patrick Balducci for contributions to the SI Framework. They also would like to acknowledge Ben Shrager for his guidance on both the Flight Paths and Framework activities.",
+    "token_count": 32,
+    "chunk_id": 5
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Authors",
+    "chunk_text": "Eric J. Dufek, Idaho National Laboratory\n\nVenkat Durvasulu, Idaho National Laboratory\n\nThomas Mosier, Idaho National Laboratory\n\nHill Balliet, Idaho National Laboratory\n\nMark Willey, Pacific Northwest National Laboratory\n\nNoel Bakhtian, Lawrence Berkeley National Laboratory",
+    "token_count": 57,
+    "chunk_id": 6
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Reviewers",
+    "chunk_text": "Halle Cheeseman, Advanced Research Projects Agency-Energy, DOE\n\nNicolas Eidson, Office of Energy Efficiency and Renewable Energy, DOE\n\nBenjamin Shrager, Office of Electricity, DOE\n\nChangwon Suh, Office of Energy Efficiency and Renewable Energy, DOE\n\nPaul Syers, Office of Energy Efficiency and Renewable Energy, DOE",
+    "token_count": 70,
+    "chunk_id": 7
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Table of Contents",
+    "chunk_text": "| About Storage Innovations 2030..................................................................................................i            |\n|----------------------------------------------------------------------------------------------------------------------------------------------|\n| Acknowledgments.......................................................................................................................ii     |\n| Background................................................................................................................................ 1 |\n| Chemistries and Components...................................................................................... 1                           |\n| Lithium-ion Deployment and Design............................................................................. 2                             |\n| Supply Chain Considerations ....................................................................................... 2                        |\n| Baseline Cost............................................................................................................... 3               |",
+    "token_count": 88,
+    "chunk_id": 8
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Table of Contents",
+    "chunk_text": "| Pathways to $0.05/kWh ............................................................................................................. 4        |\n| Pre-Competitive RD&D Opportunities ........................................................................................ 7                |\n| Advanced Controls and the Use of Data to Extend Life................................................ 8                                       |\n| Advanced Materials Development and Production ....................................................... 9                                      |\n| Advanced Manufacturing.............................................................................................. 9                       |\n| Additional Opportunities and Discussion ...................................................................................10                |\n| Appendix A: Industry Contributors.............................................................................................11             |",
+    "token_count": 95,
+    "chunk_id": 9
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Table of Contents",
+    "chunk_text": "| Appendix B: Innovation Matrix and Definitions ..........................................................................12                   |\n| Appendix C: Innovation Coefficients..........................................................................................14              |\n| References ...............................................................................................................................15 |",
+    "token_count": 36,
+    "chunk_id": 10
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Background",
+    "chunk_text": "Lithium-ion batteries (LIBs) are a critical part of daily life. Since their first commercialization in the early 1990s, the use of LIBs has spread from consumer electronics to electric vehicle and stationary energy  storage  applications.  As  energy-dense  batteries,  LIBs  have  driven  much  of  the  shift  in electrification  over  the  past  two  decades.  The  transition  from  small-form",
+    "token_count": 99,
+    "chunk_id": 11
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Background",
+    "chunk_text": "factor  cells  and  use  in electronics to large-scale grid deployment has been enabled by the ability to mass produce cells and make closed-case batteries in several sizes and shapes conducive to arrangement in different highenergy configurations. Grid deployment also has benefited from mass production of large LIB cells for electric vehicles .",
+    "token_count": 60,
+    "chunk_id": 12
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Chemistries and Components",
+    "chunk_text": "Lithium-ion  batteries  are  a  class  of  electrochemical  batteries  encompassing  different",
+    "token_count": 24,
+    "chunk_id": 13
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Chemistries and Components",
+    "chunk_text": "chemistry variants that all operate using a similar process. They rely on a 'rocking chair' design where Li+ ions are transferred from the cathode to the anode during charging and then back to the cathode during discharging. For most applications, the predominant anode material is graphite or some form of carbon, although lithium titanate (LTO) is used in some higher power or high cycle life scenarios. There  are  multiple  classes  of  cathode  materials,",
+    "token_count": 99,
+    "chunk_id": 14
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Chemistries and Components",
+    "chunk_text": "including  lithium  iron  phosphate  (LFP),  lithium cobalt oxide (LCO), lithium nickel manganese cobalt oxide (NMC), lithium manganese oxide (LMO), and lithium nickel cobalt aluminum oxide (NCA). The electrode active materials listed above are cast on current collectors, which are typically copper (anode) and aluminum (cathode), although LTO anodes also use an aluminum current collector.  Each  of the  classes  of  cathode",
+    "token_count": 100,
+    "chunk_id": 15
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Chemistries and Components",
+    "chunk_text": "materials  have different design-specific energies (in Wh/kg) and an expected cycle life for cell-level, standardized conditions as shown in Figure 1.",
+    "token_count": 30,
+    "chunk_id": 16
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Chemistries and Components",
+    "chunk_text": "Figure 1. Comparison of different performance metrics for an assortment of LIB cathode chemistries. Adapted from S. Windisch-Kern et al. [1].\n\n<!-- image -->\n\nIn addition to the active materials at the electrodes, LIBs also contain an electrolyte that consists of organic liquid or polymer compounds and a Li-containing salt. The electrolyte enables ion transport during battery operation. Cells also contain a separator that keeps the anode and cathode from",
+    "token_count": 93,
+    "chunk_id": 17
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Chemistries and Components",
+    "chunk_text": "touching or shorting. Separators often are microporous and either polymeric, ceramic, or a mixture of both.",
+    "token_count": 26,
+    "chunk_id": 18
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Lithium-ion Deployment and Design",
+    "chunk_text": "LIBs have broad adoption in different areas. For grid and stationary applications, LIBs have been deployed in systems up to hundreds of megawatt-hours to provide support for both small and large applications. Based on their design and configuration, power and energy for LIBs can be thought of as coupled-as capacity or energy increases, so does power capability.",
+    "token_count": 70,
+    "chunk_id": 19
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Lithium-ion Deployment and Design",
+    "chunk_text": "This coupling and the ability to design in a range of sizes allow LIBs to be used across multiple types of grid services, including those that rely on higher power, such as frequency regulation, as well as load shifting, which is more demanding",
+    "token_count": 48,
+    "chunk_id": 20
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Lithium-ion Deployment and Design",
+    "chunk_text": "on  energy  needs.  While  LIBs  can  be  discharged  across  a  range  of  rates,  they",
+    "token_count": 30,
+    "chunk_id": 21
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Lithium-ion Deployment and Design",
+    "chunk_text": "are typically used for durations of 10 hours or less. The design of the battery also needs to be specifically targeted toward different applications or use cases. Depending on the nature of the cycling, LIBs often have a life or warrantied life of 10+ years and 1,000+ cycles. Additionally, the application in which the battery is used and how it is controlled can dramatically impact the life of the system.",
+    "token_count": 85,
+    "chunk_id": 22
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Lithium-ion Deployment and Design",
+    "chunk_text": "Due to the flexibility of use across different areas, LIBs have been deployed to support residential needs ranging from single buildings to broad grid-scale installations. While a range of sizes are used, by capacity, most installed LIBs serve grid-scale needs.",
+    "token_count": 49,
+    "chunk_id": 23
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Lithium-ion Deployment and Design",
+    "chunk_text": "It is expected that significant growth will continue for installations of LIBs serving use cases of up to 10 hours over the next several years, with the possibility of more than doubling the 2021 investment by the end of 2023 [2] , [3] . As of 2022, deployments of batteries for grid-support applications totaled more than 8.5 GW. In 2022 alone, more than 4 GW of batteries were deployed.",
+    "token_count": 93,
+    "chunk_id": 24
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Lithium-ion Deployment and Design",
+    "chunk_text": "Of the battery storage technologies, LIBs represent the largest portion of new grid deployments at greater than 90% for 2020 and 2021 [2] , [3].",
+    "token_count": 37,
+    "chunk_id": 25
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Lithium-ion Deployment and Design",
+    "chunk_text": "Installations  for  LIBs  rely  on  large  configurations  of  cells  that  are  arranged  in  an  assortment  of parallel  and  series  configurations  to  make  modules  and  packs  or racks.  The  design  of  both",
+    "token_count": 62,
+    "chunk_id": 26
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Lithium-ion Deployment and Design",
+    "chunk_text": "the modules and packs is dictated by the specific application of interest, specific voltage requirements, and volume and space constraints. Beyond the cells used in the batteries, deployed LIBs for grid applications have multiple other components, which are critical for full functionality. These include a battery  management  system  that  controls  and  monitors  the  state  of  the  battery,  a",
+    "token_count": 78,
+    "chunk_id": 27
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Lithium-ion Deployment and Design",
+    "chunk_text": "thermal management system, and often fire suppression systems. Each of these systems is designed to either extend the life of the battery or to reduce the possible impact should the battery fail [4].",
+    "token_count": 37,
+    "chunk_id": 28
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Supply Chain Considerations",
+    "chunk_text": "As  with  any  technology,  supply  chain  concerns  exist  for  different  components  of  LIBs.  Of",
+    "token_count": 30,
+    "chunk_id": 29
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Supply Chain Considerations",
+    "chunk_text": "the elements that can be present in the batteries, the most critical are cobalt, nickel, and lithium. Cobalt and nickel are key cathode components that help increase the energy of cells. Currently, the majority of all three elements are obtained from non-domestic sources.",
+    "token_count": 55,
+    "chunk_id": 30
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Supply Chain Considerations",
+    "chunk_text": "Achieving the widespread deployment of grid-scale LIBs and high levels of electric vehicle adoption will require identifying enough of these materials, as well as iron, which can be domestically sourced for the production of LFP cathode active materials, or in the development of additional cathode chemistries using other earth-abundant materials.",
+    "token_count": 65,
+    "chunk_id": 31
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Supply Chain Considerations",
+    "chunk_text": "The demand for cobalt is expected to remain stable because the demand for low-cobalt cathode active materials has increased, both due to concerns with the geopolitical risks for cobalt sourcing and also due to the performance of NMC cathode active materials, which reduce cobalt by increasing",
+    "token_count": 57,
+    "chunk_id": 32
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Supply Chain Considerations",
+    "chunk_text": "the  amount  of  nickel  [5].  Additionally,  the  increased  use  of  LFP  provides  other opportunities to enhance the stability of cobalt supply chains.",
+    "token_count": 40,
+    "chunk_id": 33
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Supply Chain Considerations",
+    "chunk_text": "Accelerating Demand\n\nMetals demand from lithium-ion batteries is expected to top 17 million tons in 2030\n\nMillion metric tons\n\n18\n\n16\n\n12\n\n8\n\n6\n\n4\n\n2\n\n0\n\n2020\n\n2022\n\n2024\n\nSource: BloombergNEF. Note: Metals demand occurs at the mine mouth, one year before battery\n\n· Cobalt\n\n· Manganese Phosphorus",
+    "token_count": 85,
+    "chunk_id": 34
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Supply Chain Considerations",
+    "chunk_text": "Figure 2. Metals demand based on all chemistries projected up to 2030\n\n<!-- image -->\n\nSource: Bloomberg Professional Services, Race to Net Zero.",
+    "token_count": 33,
+    "chunk_id": 35
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Baseline Cost",
+    "chunk_text": "The two major chemistries that dominate the LIB industry today are NMC and LFP for their superior energy density and safety characteristics, respectively,  which  are  primary  driven  by the  mobility sector. According to industrial projections, LFP is forecasted to be the major chemistry by 2030 [6]. As a material with no Co or Ni content, LFP is often viewed as having fewer supply chain restrictions than NMC  [5] , [7]",
+    "token_count": 98,
+    "chunk_id": 36
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Baseline Cost",
+    "chunk_text": "Thus, analyses considered the baseline cost estimates of LFP from the 2030 projection  for  100  MW with  10  hours  of  storage  from  the  Energy  Storage  Technology  Cost  and Performance  Assessment  report  from  the  Pacific  Northwest  National  Laboratory  (PNNL),",
+    "token_count": 71,
+    "chunk_id": 37
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Baseline Cost",
+    "chunk_text": "as described in Table 1 [8]. The baseline levelized cost of storage (LCOS) for LFP at 100 MW and 10 hours of duration was estimated as $0.143/kWh per cycle based on the formulation described in the Storage Innovations 2030 Methodology Report. A detailed description of all cost parameters for LIBs is provided in the PNNL cost and performance assessment report [8].",
+    "token_count": 86,
+    "chunk_id": 38
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Baseline Cost",
+    "chunk_text": "Table 1. LFP battery cost and performance estimates for 100 MW and 10 hours of storage (2030 estimates)",
+    "token_count": 26,
+    "chunk_id": 39
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Baseline Cost",
+    "chunk_text": "| Parameter                                              | Value   | Description                             |\n|--------------------------------------------------------|---------|-----------------------------------------|\n| Storage block calendar life                            | 16      | Deployment life (years)                 |\n| Cycle life                                             | 2,640   | Baseline total number of cycles         |\n| Round-trip efficiency (RTE)                            | 85%     | Baseline RTE                            |",
+    "token_count": 77,
+    "chunk_id": 40
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Baseline Cost",
+    "chunk_text": "| Storage block costs                                    | 106.22  | Baseline storage block costs ($/kWh)    |\n| Balance of plant costs                                 | 27.16   | Baseline balance of plant costs ($/kWh) |\n| Controls and communication costs                       | 5.78    | Controls and communication costs ($/kW) |\n| Power equipment costs                                  | 64.62   | Power equipment costs ($/kW)            |",
+    "token_count": 94,
+    "chunk_id": 41
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Baseline Cost",
+    "chunk_text": "| System integration costs                               | 33.02   | System integration costs ($/kWh)        |\n| Project development costs                              | 47.62   | Project development costs ($/kWh)       |\n| Engineering, procurement, and construction (EPC) costs | 39.69   | EPC costs ($/kWh)                       |\n| Grid integration costs                                 | 21.05   | Grid integration costs ($/kWh)          |",
+    "token_count": 95,
+    "chunk_id": 42
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Baseline Cost",
+    "chunk_text": "demand.\n\n| Fixed operations and maintenance (O&M) costs   |     10.38 | Baseline fixed O&M costs ($/kW-year)    |\n|------------------------------------------------|-----------|-----------------------------------------|\n| Variable O&M costs                             | 0.0005125 | Baseline variable O&M costs ($/kWh)     |\n| LCOS                                           | 0.1432    | Baseline estimate of LCOS ($/kWh-cycle) |",
+    "token_count": 94,
+    "chunk_id": 43
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Pathways to $0.05/kWh",
+    "chunk_text": "The framework used here to describe the cost and technology pathways for LIBs is a systematic methodology for capturing and synthesizing an industry's sentiments about its technology's future. While many of these results involve quantitative estimates of parameters and LCOS, it is important to remember that they represent subjective perspectives from the industry. Twenty subject matter experts  (SMEs)  were  identified  and  contacted.  These  SMEs  represent  universities,",
+    "token_count": 90,
+    "chunk_id": 44
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Pathways to $0.05/kWh",
+    "chunk_text": "national laboratories, major energy analytical firms, startups, and large industry manufacturers (the names and affiliations of the SMEs are provided in Appendix A). The Framework Team conducted one-onone  interviews,  soliciting  information  regarding  pathways  to  innovation  and  the  associated",
+    "token_count": 59,
+    "chunk_id": 45
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Pathways to $0.05/kWh",
+    "chunk_text": "cost reductions and performance improvements. The innovations defined by the SMEs are presented in Table 2; the innovations in italics were identified by SMEs but were not a part of the framework analysis due to lack of supporting data. Definitions of each innovation are presented in Appendix B. Based on these innovation areas, the SMEs were then asked for additional details, such as budget, timeline, and impact on the storage parameters mentioned in Table 1. Table 2. List of innovations identified for LIB storage based on input from SMEs",
+    "token_count": 108,
+    "chunk_id": 46
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Pathways to $0.05/kWh",
+    "chunk_text": "| Innovation Category            | Innovation                             |\n|--------------------------------|----------------------------------------|\n| Raw materials sourcing         | Cathode materials mining a             |\n| Raw materials sourcing         | Domestic sourcing of lithium           |\n| Supply chain                   | Anode materials production             |\n| Supply chain                   | Mining permitting a                    |\n| Supply chain                   | Co-locating manufacturing and mines    |\n| Technology components          | Sensor and monitoring technologies     |\n| Advanced materials development | Solid-state electrolyte improvements   |",
+    "token_count": 97,
+    "chunk_id": 47
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Pathways to $0.05/kWh",
+    "chunk_text": "| Advanced materials development | Anode innovations                      |\n| Advanced materials development | Electrode and electrolyte innovations  |\n| Advanced materials development | Atomic-level cell dynamics studies a   |\n| Advanced materials development | Fundamental materials research a       |\n| Manufacturing                  | Foundational manufacturing RD&D        |\n| Manufacturing                  | Manufacturing process scale-up         |\n| Manufacturing                  | Data-driven manufacturing improvements |\n| Manufacturing                  | Manufacturing workforce development a  |\n| Deployment                     | Controls to improve cycle life         |",
+    "token_count": 98,
+    "chunk_id": 48
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Pathways to $0.05/kWh",
+    "chunk_text": "| Deployment                     | Deployment policies a                  |\n| Deployment                     | Demonstration                          |\n| Deployment                     | Deployment efficiency                  |\n| End of life                    | Recycling defective cells              |\n| End of life                    | Recycling degraded cells               |\n| End of life                    | Impurities reduction technique         |\n| End of life                    | Rapid battery health assessment        |",
+    "token_count": 71,
+    "chunk_id": 49
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Pathways to $0.05/kWh",
+    "chunk_text": "The  point  estimates  of  parameters  for  each  innovation  (capital  required,  time  to  achieve,  and improvements  to  parameters  in  Table  1)  provided  by  the  different  SMEs  were  used  to  create probability density functions that drove the outcomes of a Monte Carlo simulation. The impact on LCOS was then evaluated based on combining multiple innovations into a portfolio and calculating",
+    "token_count": 93,
+    "chunk_id": 50
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Pathways to $0.05/kWh",
+    "chunk_text": "a These innovations were identified during the initial interviews with SMEs but did not receive feedback for impact, budget, and timeline from the follow-up. Hence, these innovations were not included in the Monte Carlo simulation and analysis.\n\nPercent of Scenarios\n\n14\n\n12\n\n10\n\n8\n\n4\n\n2\n\n0.06",
+    "token_count": 64,
+    "chunk_id": 51
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Department of Energy | July 2023",
+    "chunk_text": "the  collective  impact  within  a  given  portfolio.  Each  portfolio  is  formed  by  using  all  possible combinations of two to eight innovations as described in the SI 2030 Methodology report. The LCOS impact of each portfolio was applied to the 2030 estimates of the LFP storage baseline parameters shown in Table 1.",
+    "token_count": 76,
+    "chunk_id": 52
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Department of Energy | July 2023",
+    "chunk_text": "The range of LCOS for the top 10% of portfolios (i.e., producing the lowest LCOS) is $0.067 per kWh-cycle to 0.073 per kWh-cycle, which is a 49% to 53% reduction relative to the baseline 2030 projections  (Figure  3).  These  portfolio  LCOS  values  are  constructed  using  the  means  of",
+    "token_count": 87,
+    "chunk_id": 53
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Department of Energy | July 2023",
+    "chunk_text": "the distribution of the Monte Carlo simulation results for the given portfolio. Therefore, if the realized innovation impacts are greater than the mean of the output, the LCOS reductions could be even greater than shown here. More than 80% of the portfolios achieve at least a 37% reduction in LCOS, which corresponds to a final LCOS of $0.09 per kWh-cycle.",
+    "token_count": 77,
+    "chunk_id": 54
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Department of Energy | July 2023",
+    "chunk_text": "0.07\n\n0.08\n\n0.09\n\n0.10\n\n<!-- image -->\n\n0.13\n\n0.14\n\nFigure 3. Distribution of mean LCOS for each portfolio based on the impact of the portfolio's innovations. The marked region shows the top 10% of portfolios that achieve the greatest LCOS reductions.",
+    "token_count": 68,
+    "chunk_id": 55
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Department of Energy | July 2023",
+    "chunk_text": "The rest of the analysis focuses on the top 10% of portfolios to better understand how investment impact can be maximized. These results are presented in Figure 4. The dollar values across the xaxis represent the marginal investment over the currently planned levels required to achieve the corresponding LCOS improvements. The vertical line demonstrates that the mean portfolio's cost is $1,063 million. Total expenditure levels with the highest portfolio densities in the top 10% roughly follow  a  normal  distribution, which  means  that  there  are  some  high-impact  portfolios  that",
+    "token_count": 118,
+    "chunk_id": 56
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Department of Energy | July 2023",
+    "chunk_text": "cost significantly less than the mean. While some innovations are more impactful than others, the wide shape of the normal distribution in the results indicates that there are no individual innovations that dominate the LCOS impact or expenditure of the portfolio. The timeline required to achieve these LCOS levels is estimated at 8 to 13 years. This extended timeline is largely driven by advanced materials research, which requires a significant amount of testing and validation.",
+    "token_count": 85,
+    "chunk_id": 57
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Department of Energy | July 2023",
+    "chunk_text": "LCOS ($/kWh)\n\n0.068\n\n0.066-\n\n0.064-\n\n0.062-\n\n0.060\n\n400\n\n..\n\n-50",
+    "token_count": 32,
+    "chunk_id": 58
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Department of Energy | July 2023",
+    "chunk_text": "- 40\n\nFigure 4. LCOS and expenditures for the top 10% of portfolios for LIBs. The axis on the left labels the scatterplot of expected LCOS for each portfolio versus total expenditure, while the axis on the right labels the histogram of expenditures. This means that the histogram shows the distribution of the dots on the scatterplot. The vertical line marks the median expenditure.\n\n<!-- image -->",
+    "token_count": 83,
+    "chunk_id": 59
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Department of Energy | July 2023",
+    "chunk_text": "Rapid health assessment was recognized as the most common innovation among all top-performing portfolios (Figure 5). It is important to note the significance and impact of end-of-life studies for LIBs because two of the most common innovations among the top-performing portfolios come from End of Life (italicized). The innovations under Manufacturing (bolded) have high representation among all top-performing portfolios and Manufacturing is the most common innovation category among the top-performing portfolios. Anode innovations is one area that would have a high degree of impact as a",
+    "token_count": 109,
+    "chunk_id": 60
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Department of Energy | July 2023",
+    "chunk_text": "stand-alone  change;  however,  it  falls  lower  in  the  rating  when  considering  lower  combination coefficients when paired with other advances. A detailed description of the combination coefficients is presented in Appendix C of this report.",
+    "token_count": 51,
+    "chunk_id": 61
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Department of Energy | July 2023",
+    "chunk_text": "Innovati\n\nRapid battery health assessment\n\nControls to improve cycle life\n\nImpurities reduction technique\n\nElectrode and electrolyte innovations\n\nManufacturing process scale - up\n\nData - driven manufacturing improvements",
+    "token_count": 41,
+    "chunk_id": 62
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Department of Energy | July 2023",
+    "chunk_text": "Figure 5. The percentage of portfolios in the top 10% (resulting in the least LCOS) that include each innovation. End-of-life innovations are italicized and manufacturing innovations are bolded.\n\n<!-- image -->",
+    "token_count": 45,
+    "chunk_id": 63
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Department of Energy | July 2023",
+    "chunk_text": "The SMEs also provided their insights on how these innovations should be funded (Table 3). The responses designated by asterisks (*) are the most preferred for the innovation. The SMEs believe that most of the innovations are best achieved through National Laboratory Research and RD&amp;D grants. Innovations under End of life show p from all channels, which makes sense given that these are",
+    "token_count": 76,
+    "chunk_id": 64
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Department of Energy | July 2023",
+    "chunk_text": "some of the most important and pressing innovations (Figure 5). SMEs had different ps for investment mechanisms with manufacturing-focused innovations; however, one underlying trend is that financial assistance for domestic companies was perceived as a way to incentivize onshoring.",
+    "token_count": 50,
+    "chunk_id": 65
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Department of Energy | July 2023",
+    "chunk_text": "Table 3. SMEs' ps for investment mechanisms. (Technical Assistance includes advice or guidance on issues or goals, tools and maps, and training provided by government agencies or national labs to support industry.)",
+    "token_count": 41,
+    "chunk_id": 66
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Department of Energy | July 2023",
+    "chunk_text": "| Innovation                             | National Laboratory Research   | RD&D Grants   | Loans   | Technical Assistance   |\n|----------------------------------------|--------------------------------|---------------|---------|------------------------|\n| Domestic sourcing of lithium           | 15%                            | 23%           | 31% *   | 31% *                  |\n| Anode materials production             | 25% *                          | 25% *         | 25% *   | 25% *                  |",
+    "token_count": 94,
+    "chunk_id": 67
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Department of Energy | July 2023",
+    "chunk_text": "| Co-locating manufacturing and mines    | 50% *                          | 25%           | 0%      | 25%                    |\n| Sensor and monitoring technologies     | 42%                            | 50% *         | 0%      | 8%                     |\n| Solid-state electrolyte improvements   | 40% *                          | 30%           | 10%     | 20%                    |",
+    "token_count": 88,
+    "chunk_id": 68
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Department of Energy | July 2023",
+    "chunk_text": "| Anode innovations                      | 25% *                          | 25% *         | 25% *   | 25% *                  |\n| Electrode and electrolyte innovations  | 44% *                          | 33%           | 0%      | 22%                    |\n| Foundational manufacturing RD&D        | 21%                            | 29% *         | 21%     | 29% *                  |",
+    "token_count": 90,
+    "chunk_id": 69
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Department of Energy | July 2023",
+    "chunk_text": "| Manufacturing process scale-up         | 0%                             | 20%           | 40% *   | 40% *                  |\n| Data-driven manufacturing improvements | 40% *                          | 30%           | 20%     | 10%                    |\n| Controls to improve cycle life         | 36%                            | 46% *         | 0%      | 18%                    |",
+    "token_count": 85,
+    "chunk_id": 70
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Department of Energy | July 2023",
+    "chunk_text": "| Demonstration                          | 40% *                          | 40% *         | 10%     | 10%                    |\n| Deployment efficiency                  | 29% *                          | 29% *         | 14%     | 29% *                  |\n| Recycling defective cells              | 25%                            | 33% *         | 17%     | 25%                    |",
+    "token_count": 82,
+    "chunk_id": 71
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Department of Energy | July 2023",
+    "chunk_text": "| Recycling degraded cells               | 25% *                          | 25% *         | 25% *   | 25% *                  |\n| Impurities reduction technique         | 27% *                          | 27% *         | 18%     | 27% *                  |\n| Rapid battery health assessment        | 35% *                          | 35% *         | 6%      | 24%                    |",
+    "token_count": 89,
+    "chunk_id": 72
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Department of Energy | July 2023",
+    "chunk_text": "The development of LIBs for long-duration energy storage (LDES) benefits significantly from parallel efforts  in  the  commercialization  of  LIBs for transportation  and shorter  duration  grid  storage.",
+    "token_count": 43,
+    "chunk_id": 73
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Department of Energy | July 2023",
+    "chunk_text": "The alignment is especially beneficial in areas related to manufacturing; however, the transportation and short-duration markets have yet to drive domestic manufacturing. That said, there still exists unique areas specific to the RD&amp;D for LDES that will benefit LIBs moving forward.",
+    "token_count": 52,
+    "chunk_id": 74
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Department of Energy | July 2023",
+    "chunk_text": "As shown above, many of the opportunities for RD&amp;D advancement suggest the ability to attain an LCOS below $0.10/kWh; however, achieving the target of $0.05/kWh appears difficult based on current analysis. Key RD&amp;D topics can be roughly grouped into activities associated with advanced controls, advanced materials development and production, and advanced processes for manufacturing. Many of these areas were directly",
+    "token_count": 84,
+    "chunk_id": 75
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Department of Energy | July 2023",
+    "chunk_text": "called  out  in  both  the  Flight  Paths  and  Framework  discussions  for  LIBs. With  respect  to impact, the most direct and immediate advances, as identified during the different sessions and discussions, align with advanced control and analysis methods for life extension. These also are the most  direct  to  apply  without  significantly  impacting  or  changing  how  current  manufacturing  is performed.",
+    "token_count": 90,
+    "chunk_id": 76
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Advanced Controls and the Use of Data to Extend Life",
+    "chunk_text": "Controls and the use of data constituted some of the highest or most impactful innovations identified for LDES LIBs. As noted in Table 3, investment in these areas through a grant process or through funding at the National Laboratories is preferred by SMEs. The pre-competitive aspect of control development needs to be targeted toward advances for early prediction and alignment with aging physics.  However,  the  advances  generated  are  likely  to  be  readily  integrated  in  a",
+    "token_count": 98,
+    "chunk_id": 77
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Advanced Controls and the Use of Data to Extend Life",
+    "chunk_text": "proprietary, product-specific manner into advanced demonstrations with more ease than some other routes. In part, this is because these advances, while requiring physical hardware, are likely to align more with software  development,  implementation,  and  deployment,  making  them  some  of  the  more",
+    "token_count": 61,
+    "chunk_id": 78
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Advanced Controls and the Use of Data to Extend Life",
+    "chunk_text": "direct methods to integrate with existing and near-term deployments of LIBs. These tools for rapid battery health assessment and controls to improve cycle life account for two of the top three innovations in Figure 5, which were identified during the Framework interview sessions and also were brought up during the Flight Paths listening session.",
+    "token_count": 60,
+    "chunk_id": 79
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Advanced Controls and the Use of Data to Extend Life",
+    "chunk_text": "How LIBs are used and maintained can directly impact the life of the system. Optimizing controls for life extension and resiliency will require continued and new RD&amp;D associated with rapid and direct failure  mode  classification  and  quantification  and  the  ability  to  directly  align  failure  with",
+    "token_count": 66,
+    "chunk_id": 80
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Advanced Controls and the Use of Data to Extend Life",
+    "chunk_text": "system design. Such advances offer the possibility of directly tailoring the use of a system to co-optimize life and economic benefits while ensuring that systems can still provide resiliency. Failure mode analysis also provides an opportunity to better predict the real-time state of health and state of safety of LIB systems.",
+    "token_count": 60,
+    "chunk_id": 81
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Advanced Controls and the Use of Data to Extend Life",
+    "chunk_text": "While  the  developments  associated  with  advanced  controls  tend  to  be  software  based,  there  is significant  underlying  RD&amp;D  that  needs  to  occur  across  multiple-length  scales-from  a  core understanding  of  material  degradation  to  how  system  design  and  management  impact",
+    "token_count": 77,
+    "chunk_id": 82
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Advanced Controls and the Use of Data to Extend Life",
+    "chunk_text": "spatial distributions of aging in systems. These are some of the key activities that are aligned with the U.S. Department  of  Energy  (DOE)  grant  and  National  Laboratory  funding  mechanisms.  With  the physically generated or collected data, this area of research will be able to leverage many recent advances in digital architecture, including digital twins, artificial intelligence, and machine learning, and expand the impact for LIB LDES.",
+    "token_count": 92,
+    "chunk_id": 83
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Advanced Materials Development and Production",
+    "chunk_text": "LDES will require a combination of both long cycle life and extended calendar life. Depending on the use case, there will be a need for systems to be maintained at a sufficiently high state of charge (SOC)  to  provide  needed  energy  on-demand  for  resiliency  purposes.  For  current  LIB",
+    "token_count": 68,
+    "chunk_id": 84
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Advanced Materials Development and Production",
+    "chunk_text": "systems, maintaining a high SOC for extended periods of time is one of the most significant drivers for capacity fade in calendar life applications. To mitigate this fade, advances for both the positive and negative electrodes of the cell can improve high SOC issues. On the negative electrode side, advances will be  needed  to  decrease  reactivity  and  control  solid  electrolyte  interphase  growth  during",
+    "token_count": 82,
+    "chunk_id": 85
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Advanced Materials Development and Production",
+    "chunk_text": "cycling. Possible candidates include different oxide materials, such as lithium titanate (LTO); however, in its current form, LTO and similar systems would still need advances in production to meet the cost targets.",
+    "token_count": 43,
+    "chunk_id": 86
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Advanced Materials Development and Production",
+    "chunk_text": "Positive  electrode materials  with  lower  reactivity,  including  those  with  low  Ni  and  Co,  also  are needed. This is mainly due to supply chain considerations, as noted in the National Blueprint for Lithium  Batteries  released  by  the  Federal  Consortium  for  Advanced  Batteries [9].  Supply",
+    "token_count": 76,
+    "chunk_id": 87
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Advanced Materials Development and Production",
+    "chunk_text": "chain impacts and competition with the use of LIBs for the transportation sector are likely to push added emphasis to other materials, including LFP for LIB LDES. The shift to LFP, other olivine materials, or materials such as lithium manganese oxide also may help mitigate some of the calendar aging concerns.  The  identification  of  new  materials  with  low  production  costs  and  high  stability  is  still needed.",
+    "token_count": 92,
+    "chunk_id": 88
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Advanced Materials Development and Production",
+    "chunk_text": "Parallel with the development of active materials, which have increased stability, there is a need to continue to advance electrolytes for LDES. Electrolyte development responses were split into two areas by the SMEs-the first being solid-state electrolytes, which were viewed as high impact, while other broader electrolyte advances were identified as moderate impact advancement.",
+    "token_count": 69,
+    "chunk_id": 89
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Advanced Materials Development and Production",
+    "chunk_text": "In both cases, the advanced electrolytes are needed to achieve very high cycle life in excess of 10,000 cycles and a calendar life of 20+ years. To achieve such a long life, it is necessary for electrolytes to have both low chemical and electrochemical degradation rates. Electrolyte systems that significantly reduce costs, including possible advances in aqueous electrolytes or systems with easy-to-produce salts and solvents, will benefit cost reduction for LDES.",
+    "token_count": 95,
+    "chunk_id": 90
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Advanced Manufacturing",
+    "chunk_text": "Unlike the previous two sets of innovations, most manufacturing advances for LIBs would benefit from funding through the Notice of Opportunity for Technical Assistance (NOTA) or possibly through future debt/financing programs. For both NOTA and the loan programs, an appropriate explanation of purpose and intent is still needed. Most LIB manufacturing processes are well established globally. There are key gaps in the domestic production of battery materials, components, and cells.",
+    "token_count": 86,
+    "chunk_id": 91
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Advanced Manufacturing",
+    "chunk_text": "Some of these gaps are starting to be addressed through recent battery manufacturing awards from DOE. The foundational RD&amp;D needed to advance the manufacturing of LIBs includes recycling processes, efforts to reduce impurities in sources for active materials development, and methods to advance electrode manufacturing and design. Methods to scale innovations more directly also are identified as opportunities to impact the cost of production.",
+    "token_count": 74,
+    "chunk_id": 92
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Additional Opportunities and Discussion",
+    "chunk_text": "While not directly linked to the ability to achieve cost targets based on dollars per kilowatt-hour, a concern for LIB LDES is overall system safety. Improving safety is seen as a key need to impact non-performance system and deployment cost and risk. RD&amp;D associated with improving safety was highlighted  in  multiple  venues  as  a  key  innovation  worthy  of  focus.  Each  of  the  different",
+    "token_count": 90,
+    "chunk_id": 93
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Additional Opportunities and Discussion",
+    "chunk_text": "RD&amp;D innovations in the previous section has parallel tracks that can be linked to improving safety. For materials, the advancement of lower flammability electrolytes and stable cathode materials are key opportunities. Similar controls that can readily identify the state of safety and also capture data from multiple  streams  to  make  real-time  assessment and  mitigation  should  unexpected  conditions",
+    "token_count": 77,
+    "chunk_id": 94
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Additional Opportunities and Discussion",
+    "chunk_text": "be detected will help advance LIB deployment for LDES. In the manufacturing realm, the design and development of system architectures that minimize or fully prevent propagation of failure between cells are needed. These new architectures also need to ensure that the impact on cost or energy density does not become prohibitive.",
+    "token_count": 57,
+    "chunk_id": 95
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Additional Opportunities and Discussion",
+    "chunk_text": "As with other LDES technologies, LIBs for LDES would benefit from efforts to address the soft costs of deployment, including permitting, siting, and construction costs. It was noted that costs can vary based on where the deployment resides; however, unlike the current trajectory of LIBs, the other costs  are  not  seeing  significant  decreases.  It  was  suggested  that  policy  and  efforts  to  aid in streamlining permitting and siting discussions be implemented.",
+    "token_count": 101,
+    "chunk_id": 96
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Additional Opportunities and Discussion",
+    "chunk_text": "Similarly, supply chains for materials are critical for broad adoption of LIBs for LDES applications. Even if steps are taken to mitigate or minimize the use of Ni and Co for the positive electrodes in LDES applications, there will remain a key need for Li. This is a key point that was raised in both the Flight Paths and Framework discussions. Finding and maintaining domestic sources of Li and other critical battery materials will be needed for any of the RD&amp;D advances to be successful.",
+    "token_count": 97,
+    "chunk_id": 97
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Appendix A: Industry Contributors",
+    "chunk_text": "| Participant           | Institution                                |\n|-----------------------|--------------------------------------------|\n| August N. Steinbeck   | EnerSmart Storage Holdings LLC             |\n| Bong Chill Kim (Paul) | EoCell, Inc.                               |\n| Boryann Liaw          | Idaho National Laboratory                  |\n| Bryant J. Polzin      | ReCell Center, Argonne National Laboratory |\n| Chibueze Amanchukwu   | University of Chicago                      |",
+    "token_count": 94,
+    "chunk_id": 98
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Appendix A: Industry Contributors",
+    "chunk_text": "| Daiwon Choi           | Pacific Northwest National Laboratory      |\n| Evalina Stoikou       | Bloomberg New Energy Finance               |\n| Francis Wang          | NanoGraf Corporation                       |\n| Greg Plett            | University of Colorado, Colorado Springs   |\n| Helen Kou             | Bloomberg New Energy Finance               |\n| Jason Burwen          | Clean Power                                |\n| Jim McDowall          | Saft Batteries                             |\n| Jon Christophersen    | Dynexus Technology                         |",
+    "token_count": 96,
+    "chunk_id": 99
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Appendix A: Industry Contributors",
+    "chunk_text": "| Arumugam Manthiram    | University of Texas at Austin              |\n| Mats Rinaldo          | DNV                                        |\n| Oliver Gross          | Stellantis                                 |\n| Peter Frischmann      | Sepion Technologies                        |\n| Prof. Michael Pecht   | University of Maryland                     |\n| Scott Trimboli        | University of Colorado, Colorado Springs   |\n| Stephan Fernandes     | Customized Energy Solutions                |",
+    "token_count": 91,
+    "chunk_id": 100
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Appendix A: Industry Contributors",
+    "chunk_text": "| Tanvir R. Tanim       | Idaho National Laboratory                  |\n| Venkat Srinivasan     | Argonne National Laboratory                |",
+    "token_count": 29,
+    "chunk_id": 101
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Appendix B: Innovation Matrix and Definitions",
+    "chunk_text": "Table B.1. List of innovations by innovation category. Some innovations apply to cavern storage and tank storage; however, some only apply to tank storage.",
+    "token_count": 31,
+    "chunk_id": 102
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Appendix B: Innovation Matrix and Definitions",
+    "chunk_text": "| Innovation Category            | Innovation                             |\n|--------------------------------|----------------------------------------|\n| Raw materials sourcing         | Cathode material mining                |\n| Raw materials sourcing         | Domestic sourcing of lithium           |\n| Supply chain                   | Anode materials production             |\n| Supply chain                   | Mining permitting                      |\n| Supply chain                   | Co-locating manufacturing and mines    |\n| Technology components          | Sensor and monitoring technologies     |\n| Advanced materials development | Solid-state electrolyte improvements   |",
+    "token_count": 95,
+    "chunk_id": 103
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Appendix B: Innovation Matrix and Definitions",
+    "chunk_text": "| Advanced materials development | Anode innovations                      |\n| Advanced materials development | Electrode and electrolyte innovations  |\n| Advanced materials development | Atomic-level cell dynamics studies     |\n| Advanced materials development | Fundamental materials research         |\n| Manufacturing                  | Foundational manufacturing RD&D        |\n| Manufacturing                  | Manufacturing process scale-up         |\n| Manufacturing                  | Data-driven manufacturing improvements |\n| Manufacturing                  | Manufacturing workforce development    |\n| Deployment                     | Controls to improve cycle life         |",
+    "token_count": 95,
+    "chunk_id": 104
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Appendix B: Innovation Matrix and Definitions",
+    "chunk_text": "| Deployment                     | Deployment policies                    |\n| Deployment                     | Demonstration                          |\n| Deployment                     | Deployment efficiency                  |\n| End of life                    | Recycling defective cells              |\n| End of life                    | Recycling degraded cells               |\n| End of life                    | Impurities reduction technique         |\n| End of life                    | Rapid battery health assessment        |",
+    "token_count": 70,
+    "chunk_id": 105
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Appendix B: Innovation Matrix and Definitions",
+    "chunk_text": "Cathode materials mining: Diversify cathode materials (e.g., Co, Ni, Ti, Fe) mining operations to increase price stability.\n\nDomestic sourcing of lithium: Increase the domestic mining and processing of lithium.\n\nAnode materials production: Reliable production of anode materials, such as graphite and silicon.\n\nMining permitting: Identify and conduct studies on potential mine sites to reduce the time needed and the cost to develop them.",
+    "token_count": 87,
+    "chunk_id": 106
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Appendix B: Innovation Matrix and Definitions",
+    "chunk_text": "Co-locating  manufacturing  and  mines: Policies and permissions to strategically locate manufacturing near mines or ports of import.\n\nSensor and monitoring technologies: Sensors to gather more data beyond voltage, current, and temperature to improve the understanding of battery health and aid in certification for second-life applications.\n\nSolid-state electrolyte improvements: Improve solid-state electrolyte chemistries for higher power densities that can achieve economies of scale and are safe.",
+    "token_count": 86,
+    "chunk_id": 107
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Appendix B: Innovation Matrix and Definitions",
+    "chunk_text": "Anode innovations: Si and Li anodes, aimed at increased energy density and reduced cost.\n\nElectrode  and  electrolyte  innovations: Batteries  with  extremely  long  cycle  and  calendar  life (&gt; 25 years of life) used especially in the grid and industrial applications.\n\nAtomic-level cell dynamics studies: Improve the understanding of the dynamic process of ions moving through the electrolyte and how this transfer degrades electrodes.",
+    "token_count": 92,
+    "chunk_id": 108
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Appendix B: Innovation Matrix and Definitions",
+    "chunk_text": "Fundamental materials research: Create  battery  chemistries  that  use  only  abundant  materials (e.g., sodium-based batteries) or dramatically improve safety.",
+    "token_count": 35,
+    "chunk_id": 109
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Department of Energy | July 2023",
+    "chunk_text": "Foundational manufacturing RD&amp;D: Invest in innovative manufacturing processes and machines to manufacture new chemistries and increase automation.\n\nManufacturing process scale-up: Facilitate the scale-up of promising manufacturing technologies and techniques that have been proven on the laboratory scale.\n\nData-driven manufacturing improvements: Develop data-driven approaches to help companies reduce the learning curve (i.e., increase productivity and yield more quickly).",
+    "token_count": 79,
+    "chunk_id": 110
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Department of Energy | July 2023",
+    "chunk_text": "Manufacturing workforce development: Create  formal  training  that  prepares  workers  for  jobs across the battery manufacturing industry.\n\nControls to improve cycle life: Improve the understanding of battery degradation and use this to develop controls that improve cycle life.\n\nDeployment  policies: Advanced  studies  on  market  policies  and  regulations  to  improve  the deployment of batteries in the grid.\n\nDemonstration: Accelerate the commercialization of new battery technologies through demonstration.",
+    "token_count": 94,
+    "chunk_id": 111
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Department of Energy | July 2023",
+    "chunk_text": "Deployment efficiency: Invest in techniques and technologies to increase deployment efficiency.\n\nRecycling defective cells: Improve the identification and recycling of cells that do not meet quality control standards during manufacturing.\n\nRecycling degraded cells: Develop processes that will enable cost-effective recovery of precious and non-precious materials from batteries.\n\nImpurities reduction technique: Research and development for advancement in the separation of metals and refinement of impurities.",
+    "token_count": 80,
+    "chunk_id": 112
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Department of Energy | July 2023",
+    "chunk_text": "Rapid battery health assessment: Improve the understanding of the degradation and development of  rapid  assessment  techniques  to  determine  the  remaining  battery  life  and  performance  (e.g., determine the suitability for second use).",
+    "token_count": 49,
+    "chunk_id": 113
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Appendix C: Innovation Coefficients",
+    "chunk_text": "| Domestic sourcing of lithium   | Anode materials production   | Co-locating manufacturing and mines   | Sensor and monitoring technologies   | Solid-state electrolyte improvements   | Anode innovations   | Electrode and electrolyte innovations   | Foundational manufacturing RD&D   | Manufacturing process scale-up   | Data-driven manufacturing improvements   | Controls to improve cycle life   | Demonstration   | Deployment efficiency   | Recycling defective cells   | Recycling degraded cells   | Impurities reduction technique | Rapid battery health assessment   |",
+    "token_count": 103,
+    "chunk_id": 114
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Appendix C: Innovation Coefficients",
+    "chunk_text": "|----------------------------------------|--------------------------------|------------------------------|---------------------------------------|--------------------------------------|----------------------------------------|---------------------|-----------------------------------------|-----------------------------------|----------------------------------|------------------------------------------|----------------------------------|-----------------|-------------------------|-----------------------------|----------------------------|----------------------------------|-----------------------------------|",
+    "token_count": 52,
+    "chunk_id": 115
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Appendix C: Innovation Coefficients",
+    "chunk_text": "| Domestic sourcing of lithium           | -                              | 1                            | 0.75                                  | 1                                    | 1                                      | 1                   | 1                                       | 1                                 | 1                                | 1                                        | 1                                | 1               | 1                       | 0.75                        | 0.5                        | 0.5                              | 1                                 |",
+    "token_count": 82,
+    "chunk_id": 116
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Appendix C: Innovation Coefficients",
+    "chunk_text": "| Anode materials production             | 1                              | -                            | 1                                     | 1                                    | 0.75                                   | 0.2 5               | 0.75                                    | 0.75                              | 0.75                             | 0.75                                     | 1                                | 1               | 1                       | 0.75                        | 1                          | 1                                | 1                                 |",
+    "token_count": 90,
+    "chunk_id": 117
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Appendix C: Innovation Coefficients",
+    "chunk_text": "| Co-locating manufacturing and mines    | 0.75                           | 1                            | -                                     | 1                                    | 1                                      | 1                   | 1                                       | 0.75                              | 0.75                             | 1                                        | 1                                | 1               | 1                       | 1                           | 1                          | 1                                | 1                                 |",
+    "token_count": 83,
+    "chunk_id": 118
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Appendix C: Innovation Coefficients",
+    "chunk_text": "| Sensor and monitoring technologies     | 1                              | 1                            | 1                                     | -                                    | 1                                      | 1                   | 0.5                                     | 1                                 | 1                                | 1                                        | 0.5                              | 1               | 1                       | 1                           | 1                          | 1                                | 0.25                              |",
+    "token_count": 80,
+    "chunk_id": 119
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Appendix C: Innovation Coefficients",
+    "chunk_text": "| Solid-state electrolyte improvements   | 1                              | 0.75                         | 1                                     | 1                                    | -                                      | 0.7                 | 1                                       | 1                                 | 1                                | 1                                        | 0.25                             | 0.75            | 0.75                    | 1                           | 1                          | 1                                | 0.75                              |",
+    "token_count": 87,
+    "chunk_id": 120
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Appendix C: Innovation Coefficients",
+    "chunk_text": "| Anode innovations                      | 1                              | 0.25                         | 1                                     | 1                                    | 0.7                                    | -                   | 0.9                                     | 1                                 | 1                                | 1                                        | 0.5                              | 1               | 1                       | 1                           | 1                          | 1                                | 0.25                              |",
+    "token_count": 83,
+    "chunk_id": 121
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Appendix C: Innovation Coefficients",
+    "chunk_text": "| Electrode and electrolyte innovations  | 1                              | 0.75                         | 1                                     | 0.5                                  | 1                                      | 0.9                 | -                                       | 1                                 | 1                                | 1                                        | 0.5                              | 1               | 1                       | 0.75                        | 0.5                        | 1                                | 0.5                               |",
+    "token_count": 90,
+    "chunk_id": 122
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Appendix C: Innovation Coefficients",
+    "chunk_text": "| Foundational manufacturing             | 1                              | 0.75                         | 0.75                                  | 1                                    | 1                                      | 1                   | 1                                       | -                                 | 0.25                             | 0.75                                     | 1                                | 1               | 1                       | 0.5                         | 0.75                       | 1                                | 1                                 |",
+    "token_count": 85,
+    "chunk_id": 123
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Appendix C: Innovation Coefficients",
+    "chunk_text": "| RD&D Manufacturing process scale-up    | 1                              | 0.75                         | 0.75                                  | 1                                    | 1                                      | 1                   | 1                                       | 0.25                              | -                                | 1                                        | 1                                | 1               | 1                       | 1                           | 1                          | 1                                | 1                                 |",
+    "token_count": 82,
+    "chunk_id": 124
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Appendix C: Innovation Coefficients",
+    "chunk_text": "| Data-driven manufacturing improvements | 1                              | 0.75                         | 1                                     | 1                                    | 1                                      | 1                   | 1                                       | 0.75                              | 1                                | -                                        | 1                                | 1               | 1                       | 1                           | 1                          | 1                                | 1                                 |",
+    "token_count": 77,
+    "chunk_id": 125
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Appendix C: Innovation Coefficients",
+    "chunk_text": "| Controls to improve cycle life         | 1                              | 1                            | 1                                     | 0.5                                  | 0.25                                   | 0.5                 | 0.5                                     | 1                                 | 1                                | 1                                        | -                                | 1               | 1                       | 1                           | 1                          | 1                                | 0.25                              |",
+    "token_count": 85,
+    "chunk_id": 126
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Appendix C: Innovation Coefficients",
+    "chunk_text": "| Demonstration                          | 1                              | 1                            | 1                                     | 1                                    | 0.75                                   | 1                   | 1                                       | 1                                 | 1                                | 1                                        | 1                                | -               | 0.5                     | 1                           | 1                          | 1                                | 1                                 |",
+    "token_count": 76,
+    "chunk_id": 127
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Appendix C: Innovation Coefficients",
+    "chunk_text": "| Deployment efficiency                  | 1                              | 1                            | 1                                     | 1                                    | 0.75                                   | 1                   | 1                                       | 1                                 | 1                                | 1                                        | 1                                | 0.5             | -                       | 1                           | 1                          | 1                                | 1                                 |",
+    "token_count": 76,
+    "chunk_id": 128
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Appendix C: Innovation Coefficients",
+    "chunk_text": "| Recycling defective cells              | 0.75                           | 0.75                         | 1                                     | 1                                    | 1                                      | 1                   | 0.75                                    | 0.5                               | 1                                | 1                                        | 1                                | 1               | 1                       | -                           | 0.5                        | 0.7                              | 1                                 |",
+    "token_count": 85,
+    "chunk_id": 129
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Appendix C: Innovation Coefficients",
+    "chunk_text": "| Recycling degraded cells               | 0.5                            | 1                            | 1                                     | 1                                    | 1                                      | 1                   | 0.5                                     | 0.75                              | 1                                | 1                                        | 1                                | 1               | 1                       | 0.5                         | -                          | 5 0.7                            | 1                                 |",
+    "token_count": 85,
+    "chunk_id": 130
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Appendix C: Innovation Coefficients",
+    "chunk_text": "| Impurities reduction technique         | 0.5                            | 1                            | 1                                     | 1                                    | 1                                      | 1                   | 1                                       | 1                                 | 1                                | 1                                        | 1                                | 1               | 1                       | 0.75                        | 0.75                       | 5 -                              | 1                                 |",
+    "token_count": 82,
+    "chunk_id": 131
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "Appendix C: Innovation Coefficients",
+    "chunk_text": "| Rapid battery health assessment        | 1                              | 1                            | 1                                     | 0.2 5                                | 0.75                                   | 0.2 5               | 0.5                                     | 1                                 | 1                                | 1                                        | 0.25                             | 1               | 1                       | 1                           | 1                          | 1                                | -                                 |",
+    "token_count": 88,
+    "chunk_id": 132
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "References",
+    "chunk_text": "S. Windisch-Kern, E. Gerold, T. Nigl, A. Jandric, M. Altendorfer, B. Rutrecht, S. Scherhaufer, H. Raupensstrauch , R. Pomberger, H. Antrekowitsch and F. Part, \"Recycling chains for lithiumion batteries: A  critical examination  of current challenges, opportunities  and",
+    "token_count": 89,
+    "chunk_id": 133
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "References",
+    "chunk_text": "process dependencies,\" Waste Management, vol. 138, pp. 125-139, 2022.",
+    "token_count": 22,
+    "chunk_id": 134
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "References",
+    "chunk_text": "- [2]   S.  Ray,  U.S.  Energy  Information  Administration,  8  December  2022.  [Online].  Available: https://www.eia.gov/todayinenergy/detail.php?id=54939.\n- [3]   U.S. Energy Information Administration (EIA), U.S. Department of Energy, Washington, DC, 2021.",
+    "token_count": 85,
+    "chunk_id": 135
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "References",
+    "chunk_text": "- [4]   D. Choi, N. Shamim, A. Crawford, Q. Huang, C. K. Vartanian, V. V. Viswanathan, M. D. Paiss, M. J. E. Alam, D. M. Reed and V. L. Sprenkle, \"Li-ion battery technology for grid application,\" Journal of Power Sources, vol. 511, no. 0378-7753, 2021.",
+    "token_count": 99,
+    "chunk_id": 136
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "References",
+    "chunk_text": "- [5]   Vehicle Technologies Office, U.S. Department of Energy, U.S. Department of Energy, 6 April 2021. [Online]. Available: https://www.energy.gov/eere/vehicles/articles/reducing-reliancecobalt-lithium-ion-batteries. - [6]",
+    "token_count": 65,
+    "chunk_id": 137
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "References",
+    "chunk_text": "M. Hanicke, D. Ibrahim, S. Jautelat, L. Torscht, A. van der Rijt, M. Linder and P. Schaufuss, \"Battery  2030:  Resilient,  sustainable,  and  circular,\"  McKinsey,  16  January  2023.",
+    "token_count": 76,
+    "chunk_id": 138
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "References",
+    "chunk_text": "[Online]. Available: https://www.mckinsey.com/industries/automotive-and-assembly/ourinsights/battery-2030-resilient-sustainable-and-circular.",
+    "token_count": 41,
+    "chunk_id": 139
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "References",
+    "chunk_text": "- [7]   Wood  Mackenzie,  \"Global  Lithium-ion  battery  capacity  to  rise  five-fold  by  2030,\"  Wood Mackenzie, 22 March 2022. [Online]. Available: https://www.woodmac.com/pressreleases/global-lithium-ion-battery-capacity-to-rise-five-fold-by-2030/.",
+    "token_count": 81,
+    "chunk_id": 140
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "References",
+    "chunk_text": "- [8]   V. Viswanathan, K. Mongird, R. Franks, X. Li, V. Sprenkle, and R. Baxter, \"2022 Grid Energy Storage Technology and Performance Assessment,\" Pacific Northwest National Laboratory , Richmond, WA, and Mustand Prairie Energy, 2022.",
+    "token_count": 66,
+    "chunk_id": 141
+  },
+  {
+    "document": "Technology Strategy Assessment - Lithium-ion_0",
+    "section": "References",
+    "chunk_text": "- [9]   Federal Consortium for Advanced Batteries , \"National Blueprint for Lithium Batteries 20212030,\" U.S. Department of Energy, Washington, DC, 2021.",
+    "token_count": 40,
+    "chunk_id": 142
+  }
+]
